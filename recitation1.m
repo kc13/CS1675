@@ -91,11 +91,11 @@
 
 %% Matrix arithmetic and element-wise operations
 
-% create a 10 x 5 matrix of random integers (your choice of distribution)
+% create a 10 x 5 matrix r of random integers (your choice of distribution)
 
 
 
-% create a matrix in which all the values of this matrix have been raised to the
+% create a matrix in which all the values of matrix r have been raised to the
 % third power
 
 
