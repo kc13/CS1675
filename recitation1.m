@@ -94,7 +94,7 @@
 
 
 
-% create a matrix in which all the values of r have been raised to the
+% create a matrix in which all the values of this matrix have been raised to the
 % third power
 
 
