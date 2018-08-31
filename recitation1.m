@@ -84,7 +84,8 @@
 
 
 
-% clear all variables in the workspace with clc
+% clear all variables in the workspace with clear all
+
 
 
 
